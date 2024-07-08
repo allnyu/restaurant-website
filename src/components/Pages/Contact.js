@@ -10,18 +10,18 @@ function Contact() {
                 <h1 className={ContactCSS.h1}>Contact Us</h1>
                 <div className={ContactCSS.number}>
                     <h2 className={ContactCSS.h2}>CONTACT NUMBER</h2>
-                    <p><i class="fa-solid fa-mobile"></i>0961 111 2222</p>
+                    <p><i className="fa-solid fa-mobile"></i>0961 111 2222</p>
                 </div>
                 <div className={ContactCSS.hours}>
                     <h2 className={ContactCSS.h2}>OPENING HOURS</h2>
-                    <p><i class="fa-regular fa-clock"></i>MONDAY-SUNDAY</p>
+                    <p><i className="fa-regular fa-clock"></i>MONDAY-SUNDAY</p>
                     <p>11:00AM-10:00PM</p>
                 </div>
                 <div className={ContactCSS.place}>
                     <h2 className={ContactCSS.h2}>VISIT US</h2>
-                    <p><i class="fa-solid fa-location-dot"></i>6th Avenue, East, Grace Park <br/> Caloocan City, Metro Manila</p>
+                    <p><i className="fa-solid fa-location-dot"></i>6th Avenue, East, Grace Park <br/> Caloocan City, Metro Manila</p>
                 </div>
-                <p className={ContactCSS.reserve}><i class="fa-solid fa-envelope"></i>reservations@zennys.ph</p>
+                <p className={ContactCSS.reserve}><i className="fa-solid fa-envelope"></i>reservations@zennys.ph</p>
             </section>
         </main>
         <Footer/>
