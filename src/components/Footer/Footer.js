@@ -8,8 +8,8 @@ function Footer() {
             <div className="footerSub">
                 <div className="footerIcon">
                     <h4>Follow us</h4>
-                    <a href="https://facebook.com"><i class="fa-brands fa-facebook" id="fb_icon"></i></a>
-                    <a href="https://youtube.com"><i class="fa-brands fa-youtube" id="yt_icon"></i></a>
+                    <a href="https://facebook.com"><i className="fa-brands fa-facebook" id="fb_icon"></i></a>
+                    <a href="https://youtube.com"><i className="fa-brands fa-youtube" id="yt_icon"></i></a>
                 </div>
                 <div className="footerLink">
                     <h4>Explore</h4>
@@ -20,9 +20,9 @@ function Footer() {
             </div>
             <div className="footerContact">
                 <h4>Contact</h4>
-                <p><i class="fa-solid fa-mobile"></i>(+63)961 111 2222</p>
-                <p><i class="fa-solid fa-location-dot"></i>6th Avenue, East, Grace Park <br/> Caloocan City, Metro Manila</p>
-                <p><i class="fa-solid fa-envelope"></i>reservations@zennys.ph</p>
+                <p><i className="fa-solid fa-mobile"></i>(+63)961 111 2222</p>
+                <p><i className="fa-solid fa-location-dot"></i>6th Avenue, East, Grace Park <br/> Caloocan City, Metro Manila</p>
+                <p><i className="fa-solid fa-envelope"></i>reservations@zennys.ph</p>
             </div>
         </div>
         <div className="credit">
