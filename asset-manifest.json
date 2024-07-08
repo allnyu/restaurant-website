@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/restaurant-website/static/css/main.f855e6bc.css",
-    "main.js": "/restaurant-website/static/js/main.9d61c5c7.js",
-    "static/js/453.3257c68d.chunk.js": "/restaurant-website/static/js/453.3257c68d.chunk.js",
-    "static/media/logo.svg": "/restaurant-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/restaurant-website/static/css/main.f2a968f5.css",
+    "main.js": "/restaurant-website/static/js/main.98522ad2.js",
+    "static/media/cajun_gal.jpg": "/restaurant-website/static/media/cajun_gal.c737ab11521030c1c4a7.jpg",
+    "static/media/background_home.jpg": "/restaurant-website/static/media/background_home.8dee98db9f895d1ba35d.jpg",
+    "static/media/garlic_gal.jpg": "/restaurant-website/static/media/garlic_gal.dafab8af071df4266423.jpg",
+    "static/media/background_about.jpg": "/restaurant-website/static/media/background_about.eea8b6df2fb0eaa91a46.jpg",
+    "static/media/avocado_drink_gal.jpg": "/restaurant-website/static/media/avocado_drink_gal.ca7e62af85b42a42752d.jpg",
+    "static/media/ice_mango_gal.jpg": "/restaurant-website/static/media/ice_mango_gal.100ea4bc3472675adf75.jpg",
+    "static/media/pasta_gal.jpg": "/restaurant-website/static/media/pasta_gal.cbfd0389bbbf103a33af.jpg",
+    "static/media/tahong_gal.jpg": "/restaurant-website/static/media/tahong_gal.f5248955607c80535ede.jpg",
+    "static/media/shrimp_gal.jpg": "/restaurant-website/static/media/shrimp_gal.9a26c7b5812a35fce2f8.jpg",
+    "static/media/strawberry_drink_gal.jpg": "/restaurant-website/static/media/strawberry_drink_gal.f57e78b07fdc327ba89f.jpg",
+    "static/media/mango_drink_gal.jpg": "/restaurant-website/static/media/mango_drink_gal.8598cc16812e3b08d41b.jpg",
+    "static/media/calamares_gal.jpg": "/restaurant-website/static/media/calamares_gal.482c06cd565f0c1e2351.jpg",
+    "static/media/ice_ube_gal.jpg": "/restaurant-website/static/media/ice_ube_gal.456df6ed3354ff1594b3.jpg",
+    "static/media/menu.jpg": "/restaurant-website/static/media/menu.fe5e12a1476efa01c275.jpg",
+    "static/media/mussels_gal.jpg": "/restaurant-website/static/media/mussels_gal.ff2414371b095acceac4.jpg",
+    "static/media/salmon_gal.jpg": "/restaurant-website/static/media/salmon_gal.6ccf686d1d04182a98b4.jpg",
+    "static/media/halohalo_gal.jpg": "/restaurant-website/static/media/halohalo_gal.9da8261fdfe8497979a1.jpg",
+    "static/media/logo.jpg": "/restaurant-website/static/media/logo.1f30f1b1620fdb2d9621.jpg",
     "index.html": "/restaurant-website/index.html",
-    "main.f855e6bc.css.map": "/restaurant-website/static/css/main.f855e6bc.css.map",
-    "main.9d61c5c7.js.map": "/restaurant-website/static/js/main.9d61c5c7.js.map",
-    "453.3257c68d.chunk.js.map": "/restaurant-website/static/js/453.3257c68d.chunk.js.map"
+    "main.f2a968f5.css.map": "/restaurant-website/static/css/main.f2a968f5.css.map",
+    "main.98522ad2.js.map": "/restaurant-website/static/js/main.98522ad2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9d61c5c7.js"
+    "static/css/main.f2a968f5.css",
+    "static/js/main.98522ad2.js"
   ]
 }
