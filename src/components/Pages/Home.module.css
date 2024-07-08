@@ -1,0 +1,141 @@
+/* section_main */
+main{
+    padding-top: 120px;
+    margin-bottom: 70px;
+}
+.main{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    margin: 0 20px;
+}
+.h1{
+    font-size: 25px;
+    position: relative;
+    color: #edf7f6;
+    padding: 10px 0;
+}
+.mainImg{
+    width: 100%;
+    position: relative;
+    border-radius: 10px;
+}
+
+/* section_menu */
+.menu{
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    margin: 0 20px;
+}
+.h2{
+    font-size: 20px;
+    position: relative;
+    color: #edf7f6;
+}
+.menu p{
+    font-size: 15px;
+    padding: 10px;
+    position: relative;
+    color: #edf7f6;
+}
+.menu a{
+    background: #fccb06;
+    position: relative;
+    cursor: pointer;
+    color: #222e50;
+    text-decoration: none;
+    padding: 5px;
+    top: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.menuImg{
+    width: 100%;
+    position: relative;
+    border-radius: 10px;
+    top: 20px;
+}
+
+/* media query */
+@media (min-width:576px){
+    main{
+        padding-top: 130px;
+    }
+    .mainImg{
+        width: 90%;
+    }
+    .menuImg{
+        width: 90%;
+    }
+}
+
+@media (min-width:768px){
+    .h1{
+        font-size: 30px;
+    }
+    .h2{
+        font-size: 25px;
+    }
+    .menu p{
+        font-size: 18px;
+    }
+    .menu a{
+        font-size: 18px;
+    }
+    .mainImg{
+        width: 80%;
+    }
+    .menuImg{
+        width: 80%;
+    }
+}
+
+@media (min-width:992px){
+    .main{
+        margin: 0 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .menu{
+        margin: 0 30px;
+        display: flex;
+        align-items: center;
+    }
+    .mainImg{
+        width: 40%;
+        margin-right: 10px;
+    }
+    .menutxt{
+        width: 100%;
+    }
+}
+
+@media (min-width:1200px){
+    .main{
+        margin: 0 100px;
+    }
+    .menu{
+        margin: 0 100px;
+    }
+    .h1{
+        font-size: 40px;
+    }
+    .mainImg{
+        width: 30%;
+    }
+    .menutxt{
+        width: 110%;
+    }
+    .h2{
+        font-size: 30px;
+    }
+    .menu p{
+        font-size: 20px;
+    }
+    .menu a{
+        font-size: 20px;
+    }
+}

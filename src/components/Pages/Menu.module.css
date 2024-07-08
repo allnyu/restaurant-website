@@ -1,0 +1,86 @@
+/* main */
+.section{
+    margin: 0 20px;
+}
+.h1{
+    color: #edf7f6;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px 0;
+    text-decoration: underline;
+}
+.section h2{
+    color: #edf7f6;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 2px solid #fccb06;
+    line-height: 1px;
+    margin: 10px 0;
+}
+.menu_main span{
+    background: #222e50;
+    padding: 0 10px;
+}
+.menu_desserts span{
+    background: #222e50;
+    padding: 0 10px;
+}
+.menu_drinks span{
+    background: #222e50;
+    padding: 0 10px;
+}
+.menu_sub{
+    display: flex;
+    justify-content: space-between;
+}
+.menu_sub p{
+    font-size: 15px;
+    padding: 10px 5px 10px 5px;
+    color: #edf7f6;
+}
+.menu_sub span{
+    font-size: 10px;
+    padding: 0px;
+    font-style: italic;
+}
+
+/* media query */
+@media (min-width:768px){
+    .h1{
+        font-size: 30px;
+    }
+    section h2{
+        font-size: 25px;
+    }
+    .menu_sub p{
+        font-size: 18px;
+    }
+    .menu_sub span{
+        font-size: 12px;
+    }
+}
+
+@media (min-width:992px){
+    .section{
+        margin: 0 30px;
+    }
+}
+
+@media (min-width:1200px){
+    .section{
+        margin: 0 100px;
+    }
+    .h1{
+        font-size: 40px;
+    }
+    section h2{
+        font-size: 30px;
+    }
+    .menu_sub p{
+        font-size: 20px;
+    }
+    .menu_sub span{
+        font-size: 15px;
+    }
+}
